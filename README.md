@@ -9,7 +9,22 @@ Attempt at creating an interactive educative page for my work at the library.
   - how to deal with cookies  
   - make it fun! -> timer with high scores and such, maybe a hardcore mode
 
-### Search Engines (2022 German marketshare in percent)
+### Start with example - in media res  
+- look up certain flower?  
+- what could be a thing for seniors?  
+- maybe a meta joke on how to google "how to use google"?
+
+- ask people what they might want to look up! -> get them invested  
+
+### Browser Basics  
+- left / right click  
+- hyperlinks -> blue to purple  
+- going back a page  
+- tabs  
+
+### Search Engines (2022 German marketshare in percent)  
+KEEP THIS VERY SHORT!!  
+is very boring  
 
 #### Google 91  
 - by far the biggest and for a reason: it works  
@@ -42,3 +57,5 @@ Personal recommendation: ecosia (or just use Google)
 
 ### Bonus Tips  
 - INSTALL UBLOCK ORIGIN!!!! (will soon require the use of Firefox, but it's undoubtedly worth it)
+- exact search, exluded words, etc. 
+- little detour: problem solving in the digital age? (that could be the title of the whole thing?)
