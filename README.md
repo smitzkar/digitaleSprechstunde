@@ -21,7 +21,7 @@ Probleme lösen im Digitalen Zeitalter
 - ask people what they might want to look up! -> get them invested  
 
 ### Browser Basics  
-- left / right click / hover
+- left / right click / hover / scrolling  
 - hyperlinks -> blue to purple  
 - going back a page  
 - tabs  
