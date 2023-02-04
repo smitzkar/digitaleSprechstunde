@@ -17,7 +17,7 @@ Attempt at creating an interactive educative page for my work at the library.
 - ask people what they might want to look up! -> get them invested  
 
 ### Browser Basics  
-- left / right click  
+- left / right click / hover
 - hyperlinks -> blue to purple  
 - going back a page  
 - tabs  
