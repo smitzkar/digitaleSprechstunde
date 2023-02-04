@@ -66,7 +66,6 @@ Personal recommendation: ecosia (or just use Google)
 - exact search, exluded words, etc. 
 - bookmarks
 - little detour: problem solving in the digital age? (that could be the title of the whole thing?)
-
 - how to fill online forms
-
+- download/upload
 - YOUTUBE
