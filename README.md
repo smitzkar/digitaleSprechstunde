@@ -67,4 +67,6 @@ Personal recommendation: ecosia (or just use Google)
 - bookmarks
 - little detour: problem solving in the digital age? (that could be the title of the whole thing?)
 
+- how to fill online forms
+
 - YOUTUBE
