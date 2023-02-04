@@ -58,4 +58,5 @@ Personal recommendation: ecosia (or just use Google)
 ### Bonus Tips  
 - INSTALL UBLOCK ORIGIN!!!! (will soon require the use of Firefox, but it's undoubtedly worth it)
 - exact search, exluded words, etc. 
+- bookmarks
 - little detour: problem solving in the digital age? (that could be the title of the whole thing?)
