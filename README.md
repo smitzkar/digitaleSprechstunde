@@ -2,6 +2,12 @@
 Attempt at creating an interactive educative page for my work at the library.
 
 ## Plan  
+- first create a presentation/seminar for library  
+- using the responses there, develop a simple web page for users to check in later or as a standalone  
+- if possible, make it an interactive learning environment, with embedded (or fake) google searches  
+  - how to spot and avoid ads  
+  - how to deal with cookies  
+  - make it fun! -> timer with high scores and such, maybe a hardcore mode
 
 ### Search Engines (2022 German marketshare in percent)
 
