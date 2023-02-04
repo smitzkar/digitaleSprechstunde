@@ -1,6 +1,10 @@
 # digitaleSprechstunde
 Attempt at creating an interactive educative page for my work at the library.
 
+## Moegliche Titel  
+Probleme lösen im Digitalen Zeitalter  
+
+
 ## Plan  
 - first create a presentation/seminar for library  
 - using the responses there, develop a simple web page for users to check in later or as a standalone  
