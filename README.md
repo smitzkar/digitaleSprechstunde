@@ -33,11 +33,13 @@ is very boring
 
 #### Bing 6  
 - similar layout to Google, don't really gain anything from switching to it  
+- sometimes better at guessing what one was looking for
 - not recommended
 
 #### Duckduckgo 1  
 - claims to protect privacy  
 - ads are really annoying and the custom font and colours are more trouble than they're worth 
+- not recommended
 
 #### Ecosia 1
 - very few ads, if at all  
