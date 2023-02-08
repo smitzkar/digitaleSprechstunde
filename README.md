@@ -39,6 +39,8 @@ is very boring
 - similar layout to Google, don't really gain anything from switching to it  
 - sometimes better at guessing what one was looking for
 - not recommended
+==Update==  
+Microsoft going all in on co-pilot for bing and edge, might actually make this a great option for seniors, especially!
 
 #### Duckduckgo 1  
 - claims to protect privacy  
