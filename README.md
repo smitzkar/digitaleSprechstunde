@@ -59,6 +59,7 @@ Microsoft going all in on co-pilot for bing and edge, might actually make this a
 So why use anything but Google?  
 - ads are annoying  
 - other search engines might be more consistent at showing us what we want to see  
+- to make use of bing's new AI stuff (until Google inevitably catches up)
 - because we can!  
 
 Personal recommendation: ecosia (or just use Google)  
