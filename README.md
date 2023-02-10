@@ -51,7 +51,7 @@ Microsoft going all in on co-pilot for bing and edge, might actually make this a
 - very few ads, if at all  
 - keeps the basic colour scheme  
 - fonts can be somewhat messed up on some devices  
-- Suchgebiet und Zeit are nice features!  
+- Suchgebiet und Zeit are nice features! (others handle this behind the scenes, but this is more accessible)
 - plant trees!
 
 ---  
